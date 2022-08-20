@@ -22,7 +22,7 @@ public class Activity_Listview_Custom extends AppCompatActivity {
             R.drawable.bangladesh_flag, R.drawable.india_flag, R.drawable.sri_lanka_flag, R.drawable.pakistan_flag, R.drawable.nepal_flag,
             R.drawable.bhutan_flag, R.drawable.australia_flag, R.drawable.nz_flag, R.drawable.finland_flag, R.drawable.ireland_flag,
             R.drawable.usa_flag, R.drawable.uk_flag, R.drawable.canada_flag, R.drawable.german_flag, R.drawable.south_africa_flag, R.drawable.brazil_flag,
-            R.drawable.argentina_flag, R.drawable.china_flagg, R.drawable.greenland_flag
+            R.drawable.argentina_flag, R.drawable.china_flagg, R.drawable.greenland_flag,R.drawable.japan_flag
     };
     CustomAdapter customAdapter;
     ArrayAdapter<String> adapter;
