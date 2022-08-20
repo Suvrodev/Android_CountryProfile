@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1DE9B6"
+    tools:context=".Activity_Profile">
+
+    <ImageView
+        android:id="@+id/id_Picture"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/search_icon"
+        />
+
+    <TextView
+        android:id="@+id/id_country_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:background="#00E5FF"
+        android:padding="10sp"
+        android:textStyle="bold"
+        />
+
+    <ScrollView
+        android:background="#EFC287"
+        android:padding="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/id_Country_description"
+        android:layout_marginTop="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:padding="10sp"
+        android:text="jhsjhfuwheiuhfuiewoifjowjeo"
+        />
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1DE9B6"
+    android:gravity="center"
+    android:padding="10sp"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/id_gridview_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grid View"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/id_Bangladesh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Bangladesh_Button"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        />
+    <Button
+        android:id="@+id/id_India"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/India_Button"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <Button
+        android:id="@+id/id_Finland"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Finland_Button"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <Button
+        android:id="@+id/id_NZ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nz_Button"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/id_USA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/usa_Button"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        />
+
+
+
+</LinearLayout>

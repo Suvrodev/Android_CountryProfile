@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/drawable/ac_icon.xml" value="0.3615" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/drawable/bangladesh_icon_flag_background.xml" value="0.3155" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/drawable/z_icon_background.xml" value="0.3155" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_fragment.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_grid_view.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_listview.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_listview_custom.xml" value="0.25" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_profile.xml" value="0.10989583333333333" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_recycleview.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/activity_spinner.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/custom_listview_sampleview.xml" value="0.25" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/fragment_bangladesh.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/fragment_india.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/fragment_s_l.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/gridview_sampleview.xml" value="0.3614583333333333" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/listview_sample_view.xml" value="0.3614583333333333" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/recyclebinsampleview.xml" value="0.3614583333333333" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/layout/spinnersampleview.xml" value="0.2965811965811966" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/menu/option_menu.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/menu/search_icon.xml" value="0.3625" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/mipmap-anydpi-v26/bangladesh_icon_flag.xml" value="0.2555" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/mipmap-anydpi-v26/bangladesh_icon_flag_round.xml" value="0.121" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/mipmap-anydpi-v26/z_icon.xml" value="0.121" />
+        <entry key="..\:/Android/County_Profile_Anisul_Islam/Country_Profile/app/src/main/res/mipmap-anydpi-v26/z_icon_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

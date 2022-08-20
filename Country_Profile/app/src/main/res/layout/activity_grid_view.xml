@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity_GridView">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is Grid View"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#76FF03"
+        android:padding="10sp"
+        android:textColor="#FF9100"
+        />
+
+    <Button
+        android:id="@+id/click_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click"
+/>
+    <GridView
+        android:background="#00E5FF"
+        android:id="@+id/id_gridviews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="4"
+        android:listSelector="#00E676"
+        android:horizontalSpacing="20sp"
+        android:verticalSpacing="15sp">
+    </GridView>
+
+
+
+</LinearLayout>

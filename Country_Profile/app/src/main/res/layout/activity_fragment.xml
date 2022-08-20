@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_Fragment"
+    android:weightSum="3"
+    >
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ListView
+            android:listSelector="#00E5FF"
+            android:id="@+id/id_list_view_f"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+
+<!--        <fragment-->
+<!--            android:name="com.example.country_profile.FragmentIndia"-->
+<!--            android:id="@+id/id_fragment"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent">-->
+
+<!--        </fragment>-->
+
+        <androidx.fragment.app.FragmentTabHost
+            android:id="@+id/id_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </androidx.fragment.app.FragmentTabHost>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Country_Profile</string>
+
+    <string-array name="CountryName">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Sri Lanka</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Australia</item>
+        <item>New Zealand</item>
+        <item>Finland</item>
+        <item>IreLand</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>South Africa</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>China</item>
+        <item>Green Land</item>
+        <item>Japan</item>
+    </string-array>
+
+    <string-array name="population">
+        <item>This is Bangladesh</item>
+        <item>This is India</item>
+        <item>This is Sri Lanka</item>
+        <item>This is Pakistan</item>
+        <item>This is Nepal</item>
+        <item>This is Bhutan</item>
+        <item>This is Australia</item>
+        <item>This is New Zealand</item>
+        <item>This is Finland</item>
+        <item>This is IreLand</item>
+        <item>This is USA</item>
+        <item>UK</item>
+        <item>This is Canada</item>
+        <item>This is Germany</item>
+        <item>This is South Africa</item>
+        <item>This is Brazil</item>
+        <item>This is Argentina</item>
+        <item>This is China</item>
+        <item>This is Green Land</item>
+        <item>This is Japan</item>
+    </string-array>
+
+
+    <string name="Bangladesh_Button">Bangladesh</string>
+    <string name="India_Button">India</string>
+    <string name="Finland_Button">Finland</string>
+    <string name="nz_Button">New Zealand</string>
+    <string name="usa_Button">USA</string>
+
+    <string name="Bangladesh_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+    <string name="India_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+    <string name="Finland_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="NZ_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="USA_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="SL_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="Nepal_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="Austrilia_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+    <string name="Ireland_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+
+    <string name="Bhutan_Desc">
+        The Bengal Presidency emerged from trading posts established in Mughal Bengal during the reign of Emperor Jahangir in 1612. The East India Company (HEIC), a British monopoly with a Royal Charter, competed with other European companies to gain influence in Bengal. After the decisive overthrow of the Nawab of Bengal in 1757 and the Battle of Buxar in 1764, the HEIC expanded its control over much of the Indian subcontinent. This marked the beginning of Company rule in India, when the HEIC emerged as the most powerful military force in the subcontinent. The British Parliament gradually withdrew the monopoly of the HEIC. By the 1850s, the HEIC struggled with finances.[3] After the Indian Mutiny of 1857, the British government assumed direct administration of India. The Bengal Presidency was re-organized. In the early 20th century, Bengal emerged as a hotbed of the Indian independence movement, as well as the epicenter of the Bengali Renaissance.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

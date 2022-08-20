@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Country Profile"
+    android:id="@+id/id_country_profile"
+    />
+    <item
+        android:title="List View"
+        android:id="@+id/id_list_view"
+        />
+    <item
+        android:title="Custom List View"
+        android:id="@+id/id_custom_list_view"
+        />
+    <item
+        android:title="Grid View"
+        android:id="@+id/id_gridview"
+        />
+    <item
+        android:title="Recycle View"
+        android:id="@+id/id_recycleview"
+        />
+    <item
+        android:title="Spinner"
+        android:id="@+id/id_Spinner"
+        />
+    <item
+        android:title="Expandable Listview"
+        android:id="@+id/id_expandable_listview"
+        />
+
+    <item
+        android:title="Fragment"
+        android:id="@+id/id_fragment_option"
+        />
+</menu>
